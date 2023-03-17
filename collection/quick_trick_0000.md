@@ -1,0 +1,1 @@
+## Every quick trick will be an .md file like this one.
